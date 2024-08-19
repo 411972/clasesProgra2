@@ -1,0 +1,14 @@
+C:\Users\franc\OneDrive\Escritorio\Apuntes UTN\Programación II\Proyectos\clase_1\clase_1\bin\Debug\net8.0\clase_1.exe
+C:\Users\franc\OneDrive\Escritorio\Apuntes UTN\Programación II\Proyectos\clase_1\clase_1\bin\Debug\net8.0\clase_1.deps.json
+C:\Users\franc\OneDrive\Escritorio\Apuntes UTN\Programación II\Proyectos\clase_1\clase_1\bin\Debug\net8.0\clase_1.runtimeconfig.json
+C:\Users\franc\OneDrive\Escritorio\Apuntes UTN\Programación II\Proyectos\clase_1\clase_1\bin\Debug\net8.0\clase_1.dll
+C:\Users\franc\OneDrive\Escritorio\Apuntes UTN\Programación II\Proyectos\clase_1\clase_1\bin\Debug\net8.0\clase_1.pdb
+C:\Users\franc\OneDrive\Escritorio\Apuntes UTN\Programación II\Proyectos\clase_1\clase_1\obj\Debug\net8.0\clase_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Escritorio\Apuntes UTN\Programación II\Proyectos\clase_1\clase_1\obj\Debug\net8.0\clase_1.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Escritorio\Apuntes UTN\Programación II\Proyectos\clase_1\clase_1\obj\Debug\net8.0\clase_1.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Escritorio\Apuntes UTN\Programación II\Proyectos\clase_1\clase_1\obj\Debug\net8.0\clase_1.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Escritorio\Apuntes UTN\Programación II\Proyectos\clase_1\clase_1\obj\Debug\net8.0\clase_1.dll
+C:\Users\franc\OneDrive\Escritorio\Apuntes UTN\Programación II\Proyectos\clase_1\clase_1\obj\Debug\net8.0\refint\clase_1.dll
+C:\Users\franc\OneDrive\Escritorio\Apuntes UTN\Programación II\Proyectos\clase_1\clase_1\obj\Debug\net8.0\clase_1.pdb
+C:\Users\franc\OneDrive\Escritorio\Apuntes UTN\Programación II\Proyectos\clase_1\clase_1\obj\Debug\net8.0\clase_1.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Escritorio\Apuntes UTN\Programación II\Proyectos\clase_1\clase_1\obj\Debug\net8.0\ref\clase_1.dll

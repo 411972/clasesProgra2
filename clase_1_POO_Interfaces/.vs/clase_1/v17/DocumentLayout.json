@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\Proyectos\\clase_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99D001EA-81ED-4A04-9D29-40A3AFE7F052}|clase_1\\clase_1.csproj|c:\\users\\franc\\onedrive\\escritorio\\apuntes utn\\programaci\u00F3n ii\\proyectos\\clase_1\\clase_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D001EA-81ED-4A04-9D29-40A3AFE7F052}|clase_1\\clase_1.csproj|solutionrelative:clase_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D001EA-81ED-4A04-9D29-40A3AFE7F052}|clase_1\\clase_1.csproj|c:\\users\\franc\\onedrive\\escritorio\\apuntes utn\\programaci\u00F3n ii\\proyectos\\clase_1\\clase_1\\suelto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D001EA-81ED-4A04-9D29-40A3AFE7F052}|clase_1\\clase_1.csproj|solutionrelative:clase_1\\suelto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D001EA-81ED-4A04-9D29-40A3AFE7F052}|clase_1\\clase_1.csproj|c:\\users\\franc\\onedrive\\escritorio\\apuntes utn\\programaci\u00F3n ii\\proyectos\\clase_1\\clase_1\\pack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D001EA-81ED-4A04-9D29-40A3AFE7F052}|clase_1\\clase_1.csproj|solutionrelative:clase_1\\pack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D001EA-81ED-4A04-9D29-40A3AFE7F052}|clase_1\\clase_1.csproj|c:\\users\\franc\\onedrive\\escritorio\\apuntes utn\\programaci\u00F3n ii\\proyectos\\clase_1\\clase_1\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D001EA-81ED-4A04-9D29-40A3AFE7F052}|clase_1\\clase_1.csproj|solutionrelative:clase_1\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D001EA-81ED-4A04-9D29-40A3AFE7F052}|clase_1\\clase_1.csproj|c:\\users\\franc\\onedrive\\escritorio\\apuntes utn\\programaci\u00F3n ii\\proyectos\\clase_1\\clase_1\\icalculable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D001EA-81ED-4A04-9D29-40A3AFE7F052}|clase_1\\clase_1.csproj|solutionrelative:clase_1\\icalculable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Suelto.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\Proyectos\\clase_1\\clase_1\\Suelto.cs",
+              "RelativeDocumentMoniker": "clase_1\\Suelto.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\Proyectos\\clase_1\\clase_1\\Suelto.cs",
+              "RelativeToolTip": "clase_1\\Suelto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T23:58:03.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pack.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\Proyectos\\clase_1\\clase_1\\Pack.cs",
+              "RelativeDocumentMoniker": "clase_1\\Pack.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\Proyectos\\clase_1\\clase_1\\Pack.cs",
+              "RelativeToolTip": "clase_1\\Pack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T23:45:53.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\Proyectos\\clase_1\\clase_1\\Producto.cs",
+              "RelativeDocumentMoniker": "clase_1\\Producto.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\Proyectos\\clase_1\\clase_1\\Producto.cs",
+              "RelativeToolTip": "clase_1\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T23:44:28.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICalculable.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\Proyectos\\clase_1\\clase_1\\ICalculable.cs",
+              "RelativeDocumentMoniker": "clase_1\\ICalculable.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\Proyectos\\clase_1\\clase_1\\ICalculable.cs",
+              "RelativeToolTip": "clase_1\\ICalculable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T23:40:59.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\Proyectos\\clase_1\\clase_1\\Program.cs",
+              "RelativeDocumentMoniker": "clase_1\\Program.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\Proyectos\\clase_1\\clase_1\\Program.cs",
+              "RelativeToolTip": "clase_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T23:28:00.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
