@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Apuntes UTN\Progra II\RepositorioClases\clase_2\clase_2_ejercicios_interfaces\bin\Debug\net8.0\clase_2_ejercicios_interfaces.exe
+C:\Users\Usuario\Desktop\Apuntes UTN\Progra II\RepositorioClases\clase_2\clase_2_ejercicios_interfaces\bin\Debug\net8.0\clase_2_ejercicios_interfaces.deps.json
+C:\Users\Usuario\Desktop\Apuntes UTN\Progra II\RepositorioClases\clase_2\clase_2_ejercicios_interfaces\bin\Debug\net8.0\clase_2_ejercicios_interfaces.runtimeconfig.json
+C:\Users\Usuario\Desktop\Apuntes UTN\Progra II\RepositorioClases\clase_2\clase_2_ejercicios_interfaces\bin\Debug\net8.0\clase_2_ejercicios_interfaces.dll
+C:\Users\Usuario\Desktop\Apuntes UTN\Progra II\RepositorioClases\clase_2\clase_2_ejercicios_interfaces\bin\Debug\net8.0\clase_2_ejercicios_interfaces.pdb
+C:\Users\Usuario\Desktop\Apuntes UTN\Progra II\RepositorioClases\clase_2\clase_2_ejercicios_interfaces\obj\Debug\net8.0\clase_2_ejercicios_interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Apuntes UTN\Progra II\RepositorioClases\clase_2\clase_2_ejercicios_interfaces\obj\Debug\net8.0\clase_2_ejercicios_interfaces.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Apuntes UTN\Progra II\RepositorioClases\clase_2\clase_2_ejercicios_interfaces\obj\Debug\net8.0\clase_2_ejercicios_interfaces.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Apuntes UTN\Progra II\RepositorioClases\clase_2\clase_2_ejercicios_interfaces\obj\Debug\net8.0\clase_2_ejercicios_interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Apuntes UTN\Progra II\RepositorioClases\clase_2\clase_2_ejercicios_interfaces\obj\Debug\net8.0\clase_2_ejercicios_interfaces.sourcelink.json
+C:\Users\Usuario\Desktop\Apuntes UTN\Progra II\RepositorioClases\clase_2\clase_2_ejercicios_interfaces\obj\Debug\net8.0\clase_2_ejercicios_interfaces.dll
+C:\Users\Usuario\Desktop\Apuntes UTN\Progra II\RepositorioClases\clase_2\clase_2_ejercicios_interfaces\obj\Debug\net8.0\refint\clase_2_ejercicios_interfaces.dll
+C:\Users\Usuario\Desktop\Apuntes UTN\Progra II\RepositorioClases\clase_2\clase_2_ejercicios_interfaces\obj\Debug\net8.0\clase_2_ejercicios_interfaces.pdb
+C:\Users\Usuario\Desktop\Apuntes UTN\Progra II\RepositorioClases\clase_2\clase_2_ejercicios_interfaces\obj\Debug\net8.0\clase_2_ejercicios_interfaces.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Apuntes UTN\Progra II\RepositorioClases\clase_2\clase_2_ejercicios_interfaces\obj\Debug\net8.0\ref\clase_2_ejercicios_interfaces.dll
