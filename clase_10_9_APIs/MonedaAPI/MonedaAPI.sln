@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonedaAPI", "MonedaAPI.csproj", "{942E90F6-7E95-43CE-A04D-0D28971CE96A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{942E90F6-7E95-43CE-A04D-0D28971CE96A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942E90F6-7E95-43CE-A04D-0D28971CE96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942E90F6-7E95-43CE-A04D-0D28971CE96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{942E90F6-7E95-43CE-A04D-0D28971CE96A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAEBFCCA-E377-479A-A428-DD0447034341}
+	EndGlobalSection
+EndGlobal

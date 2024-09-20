@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_10_9_APIs\\ProductosAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E78A5DE4-020C-4D6C-89C0-DF977E2B7CE3}|ProductosAPI.csproj|c:\\users\\usuario\\desktop\\apuntes utn\\progra ii\\repositorioclases\\clase_10_9_apis\\productosapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E78A5DE4-020C-4D6C-89C0-DF977E2B7CE3}|ProductosAPI.csproj|solutionrelative:controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78A5DE4-020C-4D6C-89C0-DF977E2B7CE3}|ProductosAPI.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_10_9_APIs\\ProductosAPI\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E78A5DE4-020C-4D6C-89C0-DF977E2B7CE3}|ProductosAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78A5DE4-020C-4D6C-89C0-DF977E2B7CE3}|ProductosAPI.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_10_9_APIs\\ProductosAPI\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E78A5DE4-020C-4D6C-89C0-DF977E2B7CE3}|ProductosAPI.csproj|solutionrelative:services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78A5DE4-020C-4D6C-89C0-DF977E2B7CE3}|ProductosAPI.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_10_9_APIs\\ProductosAPI\\services\\iaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E78A5DE4-020C-4D6C-89C0-DF977E2B7CE3}|ProductosAPI.csproj|solutionrelative:services\\iaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78A5DE4-020C-4D6C-89C0-DF977E2B7CE3}|ProductosAPI.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_10_9_APIs\\ProductosAPI\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E78A5DE4-020C-4D6C-89C0-DF977E2B7CE3}|ProductosAPI.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_10_9_APIs\\ProductosAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_10_9_APIs\\ProductosAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T00:10:57.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_10_9_APIs\\ProductosAPI\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_10_9_APIs\\ProductosAPI\\Services\\ProductoService.cs",
+              "RelativeToolTip": "Services\\ProductoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:54:16.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_10_9_APIs\\ProductosAPI\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_10_9_APIs\\ProductosAPI\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:54:02.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_10_9_APIs\\ProductosAPI\\Services\\IAplicacion.cs",
+              "RelativeDocumentMoniker": "Services\\IAplicacion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_10_9_APIs\\ProductosAPI\\Services\\IAplicacion.cs",
+              "RelativeToolTip": "Services\\IAplicacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:51:11.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_10_9_APIs\\ProductosAPI\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_10_9_APIs\\ProductosAPI\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:49:27.99Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

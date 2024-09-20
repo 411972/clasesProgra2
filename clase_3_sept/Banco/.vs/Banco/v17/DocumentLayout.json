@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\repositories\\implementations\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|solutionrelative:repositories\\implementations\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|solutionrelative:utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|c:\\users\\usuario\\desktop\\apuntes utn\\progra ii\\repositorioclases\\clase_3_sept\\banco\\repositories\\contracts\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|solutionrelative:repositories\\contracts\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|c:\\users\\usuario\\desktop\\apuntes utn\\progra ii\\repositorioclases\\clase_3_sept\\banco\\entities\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|solutionrelative:entities\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|solutionrelative:entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|solutionrelative:testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|c:\\users\\usuario\\desktop\\apuntes utn\\progra ii\\repositorioclases\\clase_3_sept\\banco\\repositories\\implementations\\cuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|solutionrelative:repositories\\implementations\\cuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\repositories\\contracts\\icuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|solutionrelative:repositories\\contracts\\icuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\banco.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|solutionrelative:banco.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\utils\\parametersql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|solutionrelative:utils\\parametersql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\repositories\\contracts\\itipocuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|solutionrelative:repositories\\contracts\\itipocuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\repositories\\implementations\\tipocuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|solutionrelative:repositories\\implementations\\tipocuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\entities\\tipocuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|solutionrelative:entities\\tipocuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\Repositories\\Contracts\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\Repositories\\Contracts\\IClienteRepository.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:24:28.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\Repositories\\Implementations\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\Repositories\\Implementations\\ClienteRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\ClienteRepository.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowEwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:58:01.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\Testing\\Program.cs",
+              "RelativeDocumentMoniker": "Testing\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\Testing\\Program.cs",
+              "RelativeToolTip": "Testing\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:30:34.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\Entities\\Cliente.cs",
+              "RelativeToolTip": "Entities\\Cliente.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:41:35.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\Entities\\Cuenta.cs",
+              "RelativeDocumentMoniker": "Entities\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\Entities\\Cuenta.cs",
+              "RelativeToolTip": "Entities\\Cuenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T23:08:54.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\Utils\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Utils\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\Utils\\DataHelper.cs",
+              "RelativeToolTip": "Utils\\DataHelper.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAIAwwGwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:42:15.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CuentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\Repositories\\Implementations\\CuentaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\CuentaRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\Repositories\\Implementations\\CuentaRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\CuentaRepository.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAmwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:40:33.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICuentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\Repositories\\Contracts\\ICuentaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\ICuentaRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\Repositories\\Contracts\\ICuentaRepository.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\ICuentaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:39:39.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Banco.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\Banco.csproj",
+              "RelativeDocumentMoniker": "Banco.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\Banco.csproj",
+              "RelativeToolTip": "Banco.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-27T18:41:55.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITipoCuentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\Repositories\\Contracts\\ITipoCuentaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\ITipoCuentaRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\Repositories\\Contracts\\ITipoCuentaRepository.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\ITipoCuentaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:41:25.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ParameterSQL.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\Utils\\ParameterSQL.cs",
+              "RelativeDocumentMoniker": "Utils\\ParameterSQL.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\Utils\\ParameterSQL.cs",
+              "RelativeToolTip": "Utils\\ParameterSQL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:47:40.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TipoCuenta.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\Entities\\TipoCuenta.cs",
+              "RelativeDocumentMoniker": "Entities\\TipoCuenta.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\Entities\\TipoCuenta.cs",
+              "RelativeToolTip": "Entities\\TipoCuenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:42:35.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TipoCuentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\Repositories\\Implementations\\TipoCuentaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\TipoCuentaRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_3_sept\\Banco\\Repositories\\Implementations\\TipoCuentaRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\TipoCuentaRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAlwCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:43:10.015Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

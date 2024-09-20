@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_17_9_dll_turnos\\TurnosBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAFBB9-BF92-4D1E-889D-61B771B60981}|TurnosBack.csproj|c:\\users\\usuario\\desktop\\apuntes utn\\progra ii\\repositorioclases\\clase_17_9_dll_turnos\\turnosback\\repositories\\implementation\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAFBB9-BF92-4D1E-889D-61B771B60981}|TurnosBack.csproj|solutionrelative:repositories\\implementation\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAFBB9-BF92-4D1E-889D-61B771B60981}|TurnosBack.csproj|c:\\users\\usuario\\desktop\\apuntes utn\\progra ii\\repositorioclases\\clase_17_9_dll_turnos\\turnosback\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAFBB9-BF92-4D1E-889D-61B771B60981}|TurnosBack.csproj|solutionrelative:utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAFBB9-BF92-4D1E-889D-61B771B60981}|TurnosBack.csproj|c:\\users\\usuario\\desktop\\apuntes utn\\progra ii\\repositorioclases\\clase_17_9_dll_turnos\\turnosback\\entities\\detalleturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAFBB9-BF92-4D1E-889D-61B771B60981}|TurnosBack.csproj|solutionrelative:entities\\detalleturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1A9AC4-CBA7-4143-B63D-A55F31CDCD4D}|..\\WebAPITurnos\\WebAPITurnos.csproj|c:\\users\\usuario\\desktop\\apuntes utn\\progra ii\\repositorioclases\\clase_17_9_dll_turnos\\webapiturnos\\controllers\\turnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAFBB9-BF92-4D1E-889D-61B771B60981}|TurnosBack.csproj|c:\\users\\usuario\\desktop\\apuntes utn\\progra ii\\repositorioclases\\clase_17_9_dll_turnos\\turnosback\\services\\implementations\\turnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAFBB9-BF92-4D1E-889D-61B771B60981}|TurnosBack.csproj|solutionrelative:services\\implementations\\turnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAFBB9-BF92-4D1E-889D-61B771B60981}|TurnosBack.csproj|c:\\users\\usuario\\desktop\\apuntes utn\\progra ii\\repositorioclases\\clase_17_9_dll_turnos\\turnosback\\entities\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAFBB9-BF92-4D1E-889D-61B771B60981}|TurnosBack.csproj|solutionrelative:entities\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAFBB9-BF92-4D1E-889D-61B771B60981}|TurnosBack.csproj|c:\\users\\usuario\\desktop\\apuntes utn\\progra ii\\repositorioclases\\clase_17_9_dll_turnos\\turnosback\\entities\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAFBB9-BF92-4D1E-889D-61B771B60981}|TurnosBack.csproj|solutionrelative:entities\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAFBB9-BF92-4D1E-889D-61B771B60981}|TurnosBack.csproj|c:\\users\\usuario\\desktop\\apuntes utn\\progra ii\\repositorioclases\\clase_17_9_dll_turnos\\turnosback\\repositories\\contracts\\iturnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAFBB9-BF92-4D1E-889D-61B771B60981}|TurnosBack.csproj|solutionrelative:repositories\\contracts\\iturnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAFBB9-BF92-4D1E-889D-61B771B60981}|TurnosBack.csproj|c:\\users\\usuario\\desktop\\apuntes utn\\progra ii\\repositorioclases\\clase_17_9_dll_turnos\\turnosback\\services\\contracts\\iturnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAFBB9-BF92-4D1E-889D-61B771B60981}|TurnosBack.csproj|solutionrelative:services\\contracts\\iturnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAFBB9-BF92-4D1E-889D-61B771B60981}|TurnosBack.csproj|c:\\users\\usuario\\desktop\\apuntes utn\\progra ii\\repositorioclases\\clase_17_9_dll_turnos\\turnosback\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAFBB9-BF92-4D1E-889D-61B771B60981}|TurnosBack.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TurnoController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_17_9_dll_turnos\\WebAPITurnos\\Controllers\\TurnoController.cs",
+              "RelativeDocumentMoniker": "..\\WebAPITurnos\\Controllers\\TurnoController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_17_9_dll_turnos\\WebAPITurnos\\Controllers\\TurnoController.cs",
+              "RelativeToolTip": "..\\WebAPITurnos\\Controllers\\TurnoController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAMwCcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:51:11.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Turno.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_17_9_dll_turnos\\TurnosBack\\Entities\\Turno.cs",
+              "RelativeDocumentMoniker": "Entities\\Turno.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_17_9_dll_turnos\\TurnosBack\\Entities\\Turno.cs",
+              "RelativeToolTip": "Entities\\Turno.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:06:33.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_17_9_dll_turnos\\TurnosBack\\Entities\\Servicio.cs",
+              "RelativeDocumentMoniker": "Entities\\Servicio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_17_9_dll_turnos\\TurnosBack\\Entities\\Servicio.cs",
+              "RelativeToolTip": "Entities\\Servicio.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:10:54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_17_9_dll_turnos\\TurnosBack\\Utils\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Utils\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_17_9_dll_turnos\\TurnosBack\\Utils\\DataHelper.cs",
+              "RelativeToolTip": "Utils\\DataHelper.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAIwGwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:35:30.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetalleTurno.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_17_9_dll_turnos\\TurnosBack\\Entities\\DetalleTurno.cs",
+              "RelativeDocumentMoniker": "Entities\\DetalleTurno.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_17_9_dll_turnos\\TurnosBack\\Entities\\DetalleTurno.cs",
+              "RelativeToolTip": "Entities\\DetalleTurno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:09:13.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TurnoService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_17_9_dll_turnos\\TurnosBack\\Services\\Implementations\\TurnoService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\TurnoService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_17_9_dll_turnos\\TurnosBack\\Services\\Implementations\\TurnoService.cs",
+              "RelativeToolTip": "Services\\Implementations\\TurnoService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:40:17.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TurnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_17_9_dll_turnos\\TurnosBack\\Repositories\\Implementation\\TurnoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementation\\TurnoRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_17_9_dll_turnos\\TurnosBack\\Repositories\\Implementation\\TurnoRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementation\\TurnoRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAMwDAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:34:20.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITurnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_17_9_dll_turnos\\TurnosBack\\Repositories\\Contracts\\ITurnoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\ITurnoRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_17_9_dll_turnos\\TurnosBack\\Repositories\\Contracts\\ITurnoRepository.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\ITurnoRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:32:02.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITurnoService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_17_9_dll_turnos\\TurnosBack\\Services\\Contracts\\ITurnoService.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\ITurnoService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_17_9_dll_turnos\\TurnosBack\\Services\\Contracts\\ITurnoService.cs",
+              "RelativeToolTip": "Services\\Contracts\\ITurnoService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:39:48.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_17_9_dll_turnos\\TurnosBack\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_17_9_dll_turnos\\TurnosBack\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:06:07.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
