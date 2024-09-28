@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\clase_20_9_EF\\WebAPIEntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF89664-0743-48D4-BD68-2F4559603238}|WebAPIEntityFramework\\WebAPIEntityFramework.csproj|c:\\users\\franc\\onedrive\\escritorio\\apuntes utn\\programaci\u00F3n ii\\clasesprogra2\\clase_20_9_ef\\webapientityframework\\webapientityframework\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF89664-0743-48D4-BD68-2F4559603238}|WebAPIEntityFramework\\WebAPIEntityFramework.csproj|solutionrelative:webapientityframework\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF89664-0743-48D4-BD68-2F4559603238}|WebAPIEntityFramework\\WebAPIEntityFramework.csproj|C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\clase_20_9_EF\\WebAPIEntityFramework\\webapientityframework\\data\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF89664-0743-48D4-BD68-2F4559603238}|WebAPIEntityFramework\\WebAPIEntityFramework.csproj|solutionrelative:webapientityframework\\data\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF89664-0743-48D4-BD68-2F4559603238}|WebAPIEntityFramework\\WebAPIEntityFramework.csproj|C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\clase_20_9_EF\\WebAPIEntityFramework\\webapientityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF89664-0743-48D4-BD68-2F4559603238}|WebAPIEntityFramework\\WebAPIEntityFramework.csproj|solutionrelative:webapientityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF89664-0743-48D4-BD68-2F4559603238}|WebAPIEntityFramework\\WebAPIEntityFramework.csproj|C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\clase_20_9_EF\\WebAPIEntityFramework\\webapientityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EF89664-0743-48D4-BD68-2F4559603238}|WebAPIEntityFramework\\WebAPIEntityFramework.csproj|solutionrelative:webapientityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF89664-0743-48D4-BD68-2F4559603238}|WebAPIEntityFramework\\WebAPIEntityFramework.csproj|C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\clase_20_9_EF\\WebAPIEntityFramework\\webapientityframework\\data\\repositories\\ilibrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF89664-0743-48D4-BD68-2F4559603238}|WebAPIEntityFramework\\WebAPIEntityFramework.csproj|solutionrelative:webapientityframework\\data\\repositories\\ilibrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF89664-0743-48D4-BD68-2F4559603238}|WebAPIEntityFramework\\WebAPIEntityFramework.csproj|C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\clase_20_9_EF\\WebAPIEntityFramework\\webapientityframework\\data\\models\\librosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF89664-0743-48D4-BD68-2F4559603238}|WebAPIEntityFramework\\WebAPIEntityFramework.csproj|solutionrelative:webapientityframework\\data\\models\\librosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF89664-0743-48D4-BD68-2F4559603238}|WebAPIEntityFramework\\WebAPIEntityFramework.csproj|C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\clase_20_9_EF\\WebAPIEntityFramework\\webapientityframework\\data\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF89664-0743-48D4-BD68-2F4559603238}|WebAPIEntityFramework\\WebAPIEntityFramework.csproj|solutionrelative:webapientityframework\\data\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\clase_20_9_EF\\WebAPIEntityFramework\\WebAPIEntityFramework\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPIEntityFramework\\appsettings.json",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\clase_20_9_EF\\WebAPIEntityFramework\\WebAPIEntityFramework\\appsettings.json",
+              "RelativeToolTip": "WebAPIEntityFramework\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T23:47:37.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\clase_20_9_EF\\WebAPIEntityFramework\\WebAPIEntityFramework\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPIEntityFramework\\Program.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\clase_20_9_EF\\WebAPIEntityFramework\\WebAPIEntityFramework\\Program.cs",
+              "RelativeToolTip": "WebAPIEntityFramework\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T23:42:38.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibroController.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\clase_20_9_EF\\WebAPIEntityFramework\\WebAPIEntityFramework\\Controllers\\LibroController.cs",
+              "RelativeDocumentMoniker": "WebAPIEntityFramework\\Controllers\\LibroController.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\clase_20_9_EF\\WebAPIEntityFramework\\WebAPIEntityFramework\\Controllers\\LibroController.cs*",
+              "RelativeToolTip": "WebAPIEntityFramework\\Controllers\\LibroController.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T23:29:39.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\clase_20_9_EF\\WebAPIEntityFramework\\WebAPIEntityFramework\\Data\\Repositories\\LibroRepository.cs",
+              "RelativeDocumentMoniker": "WebAPIEntityFramework\\Data\\Repositories\\LibroRepository.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\clase_20_9_EF\\WebAPIEntityFramework\\WebAPIEntityFramework\\Data\\Repositories\\LibroRepository.cs",
+              "RelativeToolTip": "WebAPIEntityFramework\\Data\\Repositories\\LibroRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T22:55:04.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILibroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\clase_20_9_EF\\WebAPIEntityFramework\\WebAPIEntityFramework\\Data\\Repositories\\ILibroRepository.cs",
+              "RelativeDocumentMoniker": "WebAPIEntityFramework\\Data\\Repositories\\ILibroRepository.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\clase_20_9_EF\\WebAPIEntityFramework\\WebAPIEntityFramework\\Data\\Repositories\\ILibroRepository.cs",
+              "RelativeToolTip": "WebAPIEntityFramework\\Data\\Repositories\\ILibroRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T22:51:51.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\clase_20_9_EF\\WebAPIEntityFramework\\WebAPIEntityFramework\\Data\\Models\\Autor.cs",
+              "RelativeDocumentMoniker": "WebAPIEntityFramework\\Data\\Models\\Autor.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\clase_20_9_EF\\WebAPIEntityFramework\\WebAPIEntityFramework\\Data\\Models\\Autor.cs",
+              "RelativeToolTip": "WebAPIEntityFramework\\Data\\Models\\Autor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T22:46:11.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibrosDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\clase_20_9_EF\\WebAPIEntityFramework\\WebAPIEntityFramework\\Data\\Models\\LibrosDbContext.cs",
+              "RelativeDocumentMoniker": "WebAPIEntityFramework\\Data\\Models\\LibrosDbContext.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\clase_20_9_EF\\WebAPIEntityFramework\\WebAPIEntityFramework\\Data\\Models\\LibrosDbContext.cs",
+              "RelativeToolTip": "WebAPIEntityFramework\\Data\\Models\\LibrosDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwB0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T22:45:36.757Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
