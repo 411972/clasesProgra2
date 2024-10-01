@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TurnoApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+142ccb477902981361468075f5b380d41b401120")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9745a0a173b58200deab29a4539ffca103076b32")]
 [assembly: System.Reflection.AssemblyProductAttribute("TurnoApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TurnoApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

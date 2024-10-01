@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "20qAp6Z+FD1++VaEnt7TEqW3tTFNx0Q/YrznLuoQmBttygvKKzHod78Lw7R0qFiFuKFsR4QoB75iGiBPwOzyBA==",
+  "dgSpecHash": "RY53fJNcyZmN4WuMxqEaJy6j5k7DkfqhMGO2l4hVohaq4LBJdG+mqolgKr/tmY7nb3O4eA3V2iXLeeBYlDiQzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programación II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\TurnoApi.csproj",
+  "projectFilePath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programación II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\TurnoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\franc\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\franc\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

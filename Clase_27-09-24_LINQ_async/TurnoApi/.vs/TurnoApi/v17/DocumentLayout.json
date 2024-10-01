@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\",
+  "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\controllers\\turnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\franc\\onedrive\\escritorio\\apuntes utn\\programaci\u00F3n ii\\clasesprogra2\\clase_27-09-24_linq_async\\turnoapi\\controllers\\turnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:controllers\\turnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\repositorios\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:repositorios\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\services\\turnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\services\\turnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:services\\turnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\repositorios\\iturnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\repositorios\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:repositorios\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\repositorios\\iturnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:repositorios\\iturnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\services\\iturnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\services\\iturnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:services\\iturnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\models\\turnosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\models\\turnosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:models\\turnosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\models\\tdetallesturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\models\\tdetallesturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:models\\tdetallesturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\models\\tservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\models\\tservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:models\\tservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -56,22 +56,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TurnoController.cs",
-              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\Controllers\\TurnoController.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\Controllers\\TurnoController.cs",
               "RelativeDocumentMoniker": "Controllers\\TurnoController.cs",
-              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\Controllers\\TurnoController.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\Controllers\\TurnoController.cs",
               "RelativeToolTip": "Controllers\\TurnoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T00:18:30.833Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TurnoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\Repositorios\\TurnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\Repositorios\\TurnoRepository.cs",
               "RelativeDocumentMoniker": "Repositorios\\TurnoRepository.cs",
-              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\Repositorios\\TurnoRepository.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\Repositorios\\TurnoRepository.cs",
               "RelativeToolTip": "Repositorios\\TurnoRepository.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAowCYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -82,24 +82,23 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "TurnosDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\Models\\TurnosDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\Models\\TurnosDbContext.cs",
               "RelativeDocumentMoniker": "Models\\TurnosDbContext.cs",
-              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\Models\\TurnosDbContext.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\Models\\TurnosDbContext.cs",
               "RelativeToolTip": "Models\\TurnosDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T23:12:35.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T23:12:35.185Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TurnoService.cs",
-              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\Services\\TurnoService.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\Services\\TurnoService.cs",
               "RelativeDocumentMoniker": "Services\\TurnoService.cs",
-              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\Services\\TurnoService.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\Services\\TurnoService.cs",
               "RelativeToolTip": "Services\\TurnoService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T00:15:44.756Z",
               "EditorCaption": ""
@@ -108,48 +107,45 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ITurnoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\Repositorios\\ITurnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\Repositorios\\ITurnoRepository.cs",
               "RelativeDocumentMoniker": "Repositorios\\ITurnoRepository.cs",
-              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\Repositorios\\ITurnoRepository.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\Repositorios\\ITurnoRepository.cs",
               "RelativeToolTip": "Repositorios\\ITurnoRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T23:39:33.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T23:39:33.129Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ITurnoService.cs",
-              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\Services\\ITurnoService.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\Services\\ITurnoService.cs",
               "RelativeDocumentMoniker": "Services\\ITurnoService.cs",
-              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\Services\\ITurnoService.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\Services\\ITurnoService.cs",
               "RelativeToolTip": "Services\\ITurnoService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T23:58:48.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T23:58:48.62Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-24T23:32:18.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T23:32:18.03Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "TServicio.cs",
-              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\Models\\TServicio.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\Models\\TServicio.cs",
               "RelativeDocumentMoniker": "Models\\TServicio.cs",
-              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\Models\\TServicio.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\Models\\TServicio.cs",
               "RelativeToolTip": "Models\\TServicio.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -159,9 +155,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "TDetallesTurno.cs",
-              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\Models\\TDetallesTurno.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\Models\\TDetallesTurno.cs",
               "RelativeDocumentMoniker": "Models\\TDetallesTurno.cs",
-              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\Models\\TDetallesTurno.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programaci\u00F3n II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\Models\\TDetallesTurno.cs",
               "RelativeToolTip": "Models\\TDetallesTurno.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programación II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\TurnoApi.csproj": {}
+    "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programación II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\TurnoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programación II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\TurnoApi.csproj": {
+    "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programación II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\TurnoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programación II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\TurnoApi.csproj",
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programación II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\TurnoApi.csproj",
         "projectName": "TurnoApi",
-        "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programación II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\TurnoApi.csproj",
+        "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programación II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\TurnoApi.csproj",
         "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programación II\\clasesProgra2\\Clase24-09-24\\TurnoApi\\obj\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Apuntes UTN\\Programación II\\clasesProgra2\\Clase_27-09-24_LINQ_async\\TurnoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
