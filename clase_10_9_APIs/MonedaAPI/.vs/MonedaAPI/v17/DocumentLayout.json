@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{942E90F6-7E95-43CE-A04D-0D28971CE96A}|MonedaAPI.csproj|solutionrelative:controllers\\monedacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{942E90F6-7E95-43CE-A04D-0D28971CE96A}|MonedaAPI.csproj|c:\\users\\usuario\\desktop\\apuntes utn\\progra ii\\repositorioclases\\clase_10_9_apis\\monedaapi\\models\\moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{942E90F6-7E95-43CE-A04D-0D28971CE96A}|MonedaAPI.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_10_9_APIs\\MonedaAPI\\models\\moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{942E90F6-7E95-43CE-A04D-0D28971CE96A}|MonedaAPI.csproj|solutionrelative:models\\moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{942E90F6-7E95-43CE-A04D-0D28971CE96A}|MonedaAPI.csproj|c:\\users\\usuario\\desktop\\apuntes utn\\progra ii\\repositorioclases\\clase_10_9_apis\\monedaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{942E90F6-7E95-43CE-A04D-0D28971CE96A}|MonedaAPI.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\RepositorioClases\\clase_10_9_APIs\\MonedaAPI\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{942E90F6-7E95-43CE-A04D-0D28971CE96A}|MonedaAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,8 +46,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T22:09:24.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T22:09:24.052Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "Models\\Moneda.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T21:56:46.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T21:56:46.24Z"
             }
           ]
         }
